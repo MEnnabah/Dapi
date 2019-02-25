@@ -1,0 +1,22 @@
+{
+  "name": "Dapi",
+  "version": "0.1.0",
+  "summary": "A short description of Dapi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Starovoytov Dmitry/Dapi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Starovoytov Dmitry": "delfin.find@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Starovoytov Dmitry/Dapi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Dapi/Classes/**/*"
+}
